@@ -47,7 +47,7 @@ Math of Machine Learning Cheat Sheets
 
 * Try your best at a competition of your choice from Kaggle. Make sure to add great documentation to your github repository! Github is the new resume.
 
-# Month 3 
+# Month 3-4
 6 weeks Deep Learning Curriculum by Siraj Raval. 
 
 ## Week 1 

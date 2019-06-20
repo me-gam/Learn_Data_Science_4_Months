@@ -1,6 +1,6 @@
 # Learn_Data_Science_4_Months
 
-This is the curriculum for learning Data Science in 4 month. Spend 2-3 hours daily. Also I'm attaching a link from where you can activate [Datacamp](https://datacamp.com) a site where you can learn data science im more detail topic wise. Go to https://my.visualstudio.com/benefits? and make your account after that search for datacamp and activate it. You will get access to premium courses for free. Explore the site and choose programming language of your interest(Python and R). Enhance your Data Science skills by focusing on particular skill sets available there on [Datacamp](https://datacamp.com).
+This is the curriculum for learning Data Science in 4 month. Spend 2-3 hours daily. Also I'm attaching a link from where you can activate [Datacamp](https://datacamp.com) a site where you can learn data science im more detail topic wise. Go to https://my.visualstudio.com/benefits? and make your account after that search for datacamp and activate it. You will get access to premium courses for free. Explore the site and choose programming language of your interest(Python and R). Enhance your Data Science skills by focusing on particular skill sets available there on [Datacamp](https://datacamp.com). Spend 2-3 hours on  datacamp also. 
 
 # Month 1
 
@@ -35,11 +35,11 @@ Math of Machine Learning Cheat Sheets
 * [Calculas](http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
 * [Linear Algebra](https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 
-## Week 1-2 Machine Learning for Data Science and Analytics Edx
+## Week 1-2 Machine Learning for Data Science and Analytics (Edx)
 
 * [Machine Learning](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+2T2018/course/)
 
-## Week 3 Machine Learning Coursera
+## Week 3 Machine Learning (Coursera)
 
 * [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning)
 

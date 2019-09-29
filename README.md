@@ -1,7 +1,10 @@
 # Learn_Data_Science_4_Months
 
-This is the curriculum for learning Data Science in 4 month. Spend 2-3 hours daily. Also I'm attaching a link from where you can activate [Datacamp](https://datacamp.com) a site where you can learn data science im more detail topic wise. Go to https://my.visualstudio.com/benefits? and make your account after that search for datacamp and activate it. You will get access to premium courses for free. Explore the site and choose programming language of your interest(Python and R). Enhance your Data Science skills by focusing on particular skill sets available there on [Datacamp](https://datacamp.com). Spend 2-3 hours on  datacamp also. 
+"[Data Scientist: The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)" - Harvard Business Review.
 
+This curriculum is specially designed to begin the path of the sexiest job a.k.a. Data Scientist. You can complete it in around 4 months by spending 2-3 hours of focused learning.
+
+Apart from this, if you wish, you can also enhance your Data Science skills from [DataCamp](https://www.datacamp.com/) (an E-Learning Platform). I am attaching a [link to get benefits](https://docs.microsoft.com/en-us/visualstudio/subscriptions/vs-datacamp) of premium courses of DataCamp. Explore the site and follow different courses, skill tracks, or career tracks by choosing the programming language of your interest (Python or R).
 # Month 1
 
 ## Week 1 Linear Algebra

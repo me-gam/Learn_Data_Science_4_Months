@@ -1,4 +1,4 @@
-# Learn_Data_Science_4_Months
+# Learn_Data_Science_in_4_Months
 
 "[Data Scientist: The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)" - Harvard Business Review.
 
